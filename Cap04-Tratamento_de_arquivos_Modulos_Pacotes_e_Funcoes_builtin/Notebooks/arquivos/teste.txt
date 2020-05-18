@@ -1,0 +1,4 @@
+Comando válido apenas dentro do ambiente do Jupyter Notebook 
+(modo iterativo de programar em python)
+Olá este arquivo foi gerado pelo próprio Jupyter Notebook.
+Podemos gerar quantas linhas quisermos e o Jupyter gera o arquivo final.

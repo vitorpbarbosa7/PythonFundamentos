@@ -1,0 +1,10 @@
+bolsa
+massa
+casa
+dados
+ventilador
+software
+hardware
+processador
+memoria
+porta

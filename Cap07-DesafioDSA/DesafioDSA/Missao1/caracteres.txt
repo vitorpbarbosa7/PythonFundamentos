@@ -1,0 +1,6 @@
+minusculas: qwertyuiopasdfghjklzxcvbnm
+
+maiúsculas: QWERTYUIOPASDFGHJKLZXCVBNM
+
+caracteres especiais: !@#$%¨&*
+
