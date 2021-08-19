@@ -1,3 +1,10 @@
 .DS_Store
 .ipynb_checkpoints
 .temp
+Cap09-Introducao_a_Analise_de_Dados_com_Python/Mini-Projeto/dataset/autos.csv
+Cap10-Introducao_ao_TensorFlow/Mini-Projeto-Solucao/dataset/autos.csv
+Cap12-Introducao_a_DeepLearning/dataset/EmotionDetectorData.pickle
+Cap12-Introducao_a_DeepLearning/dataset/train.csv
+Cap12-Introducao_a_DeepLearning/modelo/model.ckpt-0.data-00000-of-00001
+Cap12-Introducao_a_DeepLearning/modelo/model.ckpt-100.data-00000-of-00001
+Cap12-Introducao_a_DeepLearning/modelo/model.ckpt-200.data-00000-of-00001
